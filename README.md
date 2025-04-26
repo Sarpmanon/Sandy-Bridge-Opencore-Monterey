@@ -12,4 +12,4 @@ Put **-wegnoegpu** in boot arguments, otherwise it won't boot correctly.
 
 You'll have to enable “FixupAppleEfiImages” in config.plist to prevent boot problems after the installation.
 
-![desktop image dark]([https://github.com/tograh/testrepository/3DTest.png](https://preview.redd.it/asus-n53sn-monterey-sandy-bridge-v0-ggte5ebbbnxc1.png?width=1080&crop=smart&auto=webp&s=b78dd78e99419559c994c861fea12e1c4f38ec99))
+![desktop image dark](https://preview.redd.it/asus-n53sn-monterey-sandy-bridge-v0-ggte5ebbbnxc1.png?width=1080&crop=smart&auto=webp&s=b78dd78e99419559c994c861fea12e1c4f38ec99)
